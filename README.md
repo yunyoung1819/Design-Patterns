@@ -1,2 +1,11 @@
-# Design-Patterns
-HeadFirst Design Patterns
+<HeadFirst Design Patterns>
+=============================
+## 저자 에릭 프리먼, 케잇 시에라
+
+### 1. 디자인패턴 소개
+---
+₩₩₩
+  SimUDuck
+  조는 상속에 대해서 생각을 해봅니다...
+₩₩₩
+  
