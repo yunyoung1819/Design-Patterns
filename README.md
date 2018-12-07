@@ -1,4 +1,4 @@
-#HeadFirst Design Patterns
+HeadFirst Design Patterns
 =============================
 ## 저자 에릭 프리먼, 케잇 시에라
 
