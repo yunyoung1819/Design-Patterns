@@ -1,7 +1,4 @@
 HeadFirst Design Patterns
 =============================
-## 저자 에릭 프리먼, 케잇 시에라
-
-### 1. 디자인패턴 소개
----
+### Code for HeadFirst Design Patterns
 
