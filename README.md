@@ -58,6 +58,6 @@ HeadFirst Design Patterns
 - 패턴과 함께하는 행복한 삶 <br/>
 [[code]](https://github.com/yunyoung1819/Head-First-Design-Patterns/tree/master/src/chapter13)
 
-#### Chapter 12. 기타 패턴
+#### Chapter 14. 기타 패턴
 - 부록 <br/>
 [[code]](https://github.com/yunyoung1819/Head-First-Design-Patterns/tree/master/src/chapter14)
