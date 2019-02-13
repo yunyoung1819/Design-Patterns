@@ -4,4 +4,11 @@ HeadFirst Design Patterns
 
 ### Code for HeadFirst Design Patterns
 
+#### Chapter 01. 디자인 패턴의 세계에 오신 것을 환영합니다
+- 디자인 패턴 소개
+[[code]](https://github.com/yunyoung1819/Head-First-Design-Patterns/tree/master/src/chapter01)
 
+
+#### Chapter 02. 객체들한테 연락하기
+- 옵저버 패턴
+[[code]](https://github.com/yunyoung1819/Head-First-Design-Patterns/tree/master/src/chapter02)
